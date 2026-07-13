@@ -11,3 +11,5 @@ new line 4
 new line 5
 
 delete a branch
+
+branch master end
