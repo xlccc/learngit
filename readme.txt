@@ -17,3 +17,5 @@ branch master end
 fix bug1
 
 local add some
+
+remote add some2
