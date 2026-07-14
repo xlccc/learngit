@@ -15,3 +15,5 @@ delete a branch
 branch master end
 
 fix bug1
+
+remote new add something
